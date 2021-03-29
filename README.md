@@ -2,8 +2,10 @@
 I'm a product manager/software engineer who is passionate about software development.
 
 ## Find me on the web 🌍
-- 📑 Personal website with blog on [cortana.at](https://cortana.at)
-- 👨‍💻 Member of [EveryoneCanContribute](https://everyonecancontribute.com/)
+- 🌐 Personal website with blog on [cortana.at](https://cortana.at)
+- 👨‍💻 Member of [EveryoneCanContribute](https://everyonecancontribute.com)
+- 📑 Author on [Geeker’s Digest](https://www.geekersdigest.com)
+- 🐸 Member of the [Conan 2.0 Tribe](https://conan.io/tribe.html)
 
 ## Connect with me
 <a href="https://twitter.com/tonka_2000">
