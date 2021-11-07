@@ -42,6 +42,10 @@ I'm a product manager/software engineer who is passionate about software develop
 
   Check your twitter directly in Raycast
 
+* [YouTube for Raycast](https://www.raycast.com/tonka3000/youtube)
+
+  Directly search on YouTube from Raycast
+
 
 ## Languages and Tools
 <img alt="Visual Studio Code" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
