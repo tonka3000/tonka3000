@@ -22,30 +22,45 @@ I'm a product manager/software engineer who is passionate about software develop
 
 # Some of my Projects 👨‍💻
 
-* [Qt Visual Studio Code Tools](https://marketplace.visualstudio.com/items?itemName=tonka3000.qtvsctools)
+* [Qt Visual Studio Code Tools](https://marketplace.visualstudio.com/items?itemName=tonka3000.qtvsctools) <img src="https://raw.githubusercontent.com/tonka3000/vscode-qt-tools/develop/icon.png" style="height:1em; vertical-align: middle"/>
 
   Use Qt tools directly from VSCode
 
-* [GitLab for Raycast](https://www.raycast.com/tonka3000/gitlab)
+* [GitLab for Raycast 🦊](https://www.raycast.com/tonka3000/gitlab)
 
   Manage your daily GitLab work Raycast
 
-* [Home Assistant for Raycast](https://www.raycast.com/tonka3000/homeassistant)
+* [Home Assistant for Raycast 🏡](https://www.raycast.com/tonka3000/homeassistant)
 
-  Control your house with Raycast 🚀
+  Control your house with Raycast
 
-* [Weather forecast for Raycast](https://www.raycast.com/tonka3000/weather)
+* [Speedtest for Raycast 🚀](https://www.raycast.com/tonka3000/speedtest)
 
-  Weather forcast directly in Raycast
+  Test your internet speed via [speedtest.net](https://www.speedtest.net) directly in Raycast
 
-* [Twitter for Raycast](https://www.raycast.com/tonka3000/twitter)
+* [Weather forecast for Raycast ⛅](https://www.raycast.com/tonka3000/weather)
+
+  Weather forecast directly in Raycast via [wttr.in](https://wttr.in)
+
+* [Twitter for Raycast](https://www.raycast.com/tonka3000/twitter) <img src="https://raw.githubusercontent.com/raycast/extensions/main/extensions/twitter/assets/twitter.png" style="height:1em; vertical-align: middle"/>
 
   Check your twitter directly in Raycast
 
-* [YouTube for Raycast](https://www.raycast.com/tonka3000/youtube)
+* [YouTube for Raycast](https://www.raycast.com/tonka3000/youtube) <img src="https://raw.githubusercontent.com/raycast/extensions/main/extensions/youtube/assets/youtube.png" style="height: 1em; vertical-align: middle"/>
 
   Directly search on YouTube from Raycast
 
+* [Snake for Raycast 🐍](https://www.raycast.com/tonka3000/snake)
+
+  Play a classic snake game directly in Raycast
+
+* [OpenWeatherMap for Raycast](https://www.raycast.com/tonka3000/openweathermap) <img src="https://raw.githubusercontent.com/raycast/extensions/main/extensions/openweathermap/assets/openweathermap.png" style="height:1em; vertical-align: middle"/>
+
+  Weather forecast directly in Raycast via [OpenWeatherMap](https://openweathermap.org)
+
+* [RICE Score for Raycast](https://www.raycast.com/tonka3000/ricescore) <img src="https://raw.githubusercontent.com/raycast/extensions/main/extensions/ricescore/assets/rice.png" style="height: 1em; vertical-align: middle"/>
+
+  Calculate the RICE Score in Raycast and convert it to markdown.
 
 ## Languages and Tools
 <img alt="Visual Studio Code" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -55,6 +70,7 @@ I'm a product manager/software engineer who is passionate about software develop
 <img alt="Git" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img alt="HTML5" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="JavaScript" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="TypeScript" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img alt="Node.js" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img alt="Markdown" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
 
