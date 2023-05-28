@@ -61,7 +61,7 @@ I'm a product manager/software engineer who is passionate about software develop
 
   Directly search on YouTube from Raycast
 
-* [Snake](https://www.raycast.com/tonka3000/snake)
+* [Snake](https://www.raycast.com/tonka3000/snake) 🐍
 
   Play a classic snake game directly in Raycast
 
