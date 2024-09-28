@@ -8,9 +8,9 @@ I'm a product manager/software engineer who is passionate about software develop
 - 🐸 Member of the [Conan 2.0 Tribe](https://conan.io/tribe.html)
 
 ## Connect with me
-<a href="https://twitter.com/tonka_2000">
+<!--<a href="https://twitter.com/tonka_2000">
     <img alt="tonka3000 | Twitter" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/twitter.svg" />
-  </a>
+  </a>-->
 <a href="https://gitlab.com/tonka3000">
   <img alt="tonka3000 | Twitter" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" />
 </a>
@@ -35,6 +35,7 @@ I'm a product manager/software engineer who is passionate about software develop
 
   Use Raycast tools directly from VSCode.
 
+<!--
 ## Raycast Extensions <img src="assets/raycast-logo-light.svg" style="height: 1em; vertical-align: middle">
 
 * [Speedtest 🚀](https://www.raycast.com/tonka3000/speedtest)
@@ -79,6 +80,7 @@ I'm a product manager/software engineer who is passionate about software develop
 
 A full list of all my extension can be found [here](https://www.raycast.com/tonka3000)
 
+-->
 
 ## Languages
 
@@ -87,6 +89,7 @@ A full list of all my extension can be found [here](https://www.raycast.com/tonk
 <img alt="TypeScript" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img alt="CMake" align="left" width="26px" style="margin-right:15px" src="assets/cmake.png">
 <img alt="JavaScript" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="Dart" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 
 <br>
 
@@ -102,7 +105,8 @@ A full list of all my extension can be found [here](https://www.raycast.com/tonk
 <img alt="Qt" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" />
 <img alt="Python" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img alt="Node.js" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img alt="Raycast" align="left" width="26px" style="margin-right:15px" src="assets/raycast-logo-light.svg">
+<img alt="Flutter" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+<!--<img alt="Raycast" align="left" width="26px" style="margin-right:15px" src="assets/raycast-logo-light.svg">-->
 
 <br>
 
@@ -110,7 +114,7 @@ A full list of all my extension can be found [here](https://www.raycast.com/tonk
 
 <img alt="Visual Studio Code" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="Git" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img alt="Raycast" align="left" width="26px" style="margin-right:15px" src="assets/raycast-logo-light.svg">
+<!--<img alt="Raycast" align="left" width="26px" style="margin-right:15px" src="assets/raycast-logo-light.svg">-->
 
 <br/>
 <br/>
